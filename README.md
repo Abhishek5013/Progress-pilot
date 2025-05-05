@@ -17,6 +17,14 @@ If you're using nodemon for development, you can run:
 npx nodemon server.js
 
 
+2. Frontend (React with Vite)
+Navigate to the client folder:
+cd progress-pilot-app-main
+Install dependencies:
 
+npm install
+Run the development server:
+
+npm run dev
 
 
